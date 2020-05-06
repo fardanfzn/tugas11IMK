@@ -1,0 +1,132 @@
+
+
+
+body{
+	margin: 0;
+	text-align: center;
+	font-family: 'Slabo 27px', serif;
+	color: #ef3b65;
+}
+
+h1{
+	margin: 0;
+	padding-top: 150px;
+	font-size: 90px;
+	font-family: 'Caveat', cursive;
+}
+
+h2{
+	margin: 0;
+	font-size: 60px;
+	font-family: 'Caveat', cursive;
+}
+
+h3{
+	margin: 100px auto 100px auto;
+	font-size: 60px;
+	font-family: 'Caveat', cursive;
+}
+
+.container1{
+background-color: #E59E93;
+}
+
+.container2{
+	margin: auto;
+	background-color: white;
+	width: 50%;
+}
+.container3{
+	word-spacing: 30px;
+	background-color: #E59E93;
+	height: 200px
+	
+}
+
+.container3 a{
+	color: #ef3b65;
+	font-size: 30px;
+	
+}
+.profil1{
+	position: absolute;
+	left: 1%;
+}
+
+.mahasiswa{
+	padding-bottom: 50px;
+}
+
+.kontak{
+	font-size: 30px;
+	float: right;
+	margin: 10px;
+	word-spacing: 15px;
+}
+
+span a{
+	color: #ef3b65;
+}
+
+.container4{
+	text-align: left;
+	width: 800px;
+	padding: 5px;
+	margin: 100px auto 100px auto;
+	line-height: 2;
+
+}
+
+.jenjang{
+	margin: auto;
+	float: left;
+}
+
+.pendidikan{
+	margin: 0;
+	font-size: 40px;
+	font-family: 'Caveat', cursive;
+}
+
+.container5{
+	text-align: left;
+	width: 800px;
+	padding: 5px;
+	margin: 100px auto 100px auto;
+	line-height: 2;
+
+}
+
+.pengalaman{
+	margin: auto;
+	float: right;
+}
+
+.organisasi{
+	margin: 0;
+	font-size: 40px;
+	font-family: 'Caveat', cursive;
+}
+
+.container6{
+	text-align: left;
+	width: 800px;
+	padding: 5px;
+	margin: 100px auto 100px auto;
+	line-height: 2;
+
+}
+
+.mata{
+	margin: auto;
+	float: left;
+}
+
+.kuliah{
+	margin: 0;
+	font-size: 40px;
+	font-family: 'Caveat', cursive;
+}
+.kontak2 a{
+	color: black;
+}
